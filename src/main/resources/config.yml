@@ -1,0 +1,27 @@
+Discord-Message:
+  - null
+  - '§fOur Discord Server:'
+  - '§5Discord server'
+  - null
+Vk-Message:
+  - null
+  - '§fOur VK group:'
+  - '§5vk group'
+  - null
+Telegram-Message:
+  - null
+  - '§fOur Telegram Channel:'
+  - '§5t.me/???'
+  - null
+Social-Message:
+  - null
+  - '§fOur socials:'
+  - '§fTelegram: §5tg channel'
+  - '§fvk: §5Vk group'
+  - '§fDiscord: §5discord server'
+  - null
+Rules-Message:
+  - null
+  - '§fAll §5 rules §f You can find'
+  - '§fIn our §5discord§f server: §5discordserver §7§o(/discord)'
+  - null

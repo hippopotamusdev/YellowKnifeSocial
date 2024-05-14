@@ -1,0 +1,16 @@
+name: YellowKnifeSocials
+version: '1.0'
+main: yellowknife.yellowknifesocials.YellowKnifeSocials
+api-version: '1.20'
+authors: [ YellowKnife ]
+description: Plugin for show socials
+commands:
+  discord:
+    aliases: [ds, dsc]
+  telegram:
+    aliases: [tg, t.me]
+  vk:
+    aliases: [vk, vkontakte]
+  socials:
+    aliases: [social,]
+  rules:
